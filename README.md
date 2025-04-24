@@ -1,7 +1,7 @@
 # Text Summarizer Fast API 
 
 ## Project Background
-A FastAPI service that has one endpoint that takes in a large amount of text and returns a summarization of the text. Uses SpaCy and TFIDF algorithm to summarize text
+The goal of this project was to combine knowledge of basic machine learning as well as backend services. To do that I created a FastAPI service that has one endpoint that takes in a large amount of text and returns a summarization of the text. Uses SpaCy and TFIDF algorithm to summarize text
 
 ## Tech Stack
 Python, FastAPI, SpaCy
